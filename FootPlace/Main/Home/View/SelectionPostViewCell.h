@@ -1,0 +1,15 @@
+//
+//  SelectionPostViewCell.h
+//  FootPlace
+//
+//  Created by wangchengyuan on 15/10/26.
+//  Copyright © 2015年 wangchengyuan.com. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SelectionPostViewCell : UICollectionViewCell
+
+@property (nonatomic, strong) UIImageView *imageView;
+
+@end
